@@ -70,7 +70,7 @@ public class TwitterPoruka {
 	 * @return korisnik twitter-a i twitter poruka kao String
 	 */
 	public String toString() {
-		return "KORISNIK: " + korisnik + "PORUKA:" + poruka;
+		return "KORISNIK: " + korisnik + " PORUKA: " + poruka;
 	}
 
 }
