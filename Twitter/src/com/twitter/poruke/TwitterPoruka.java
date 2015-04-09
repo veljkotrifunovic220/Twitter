@@ -2,7 +2,7 @@ package com.twitter.poruke;
 
 /**
  * Ova klasa predstavlja poruku na twitter-u.
- * @author Veljko Trifunovic
+ * @author Veljko
  * @version 0.1
  */
 public class TwitterPoruka {
